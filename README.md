@@ -1,7 +1,17 @@
 
+Pc screen view
+
+![dashboard](https://github.com/Rohit7814/admin_dashboard/assets/108716973/bf12ec8a-5b86-43e7-b31c-90eec030805f)
+
+
+
+
 Here is the link for the live preview
 
 https://admin-dashboard-eta-eosin.vercel.app/
+
+
+
 
 
 # React + Vite
