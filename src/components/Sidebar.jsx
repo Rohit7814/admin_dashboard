@@ -1,6 +1,6 @@
 //sidebar code with active as a prop it true indicate a toggle effect
 import React from "react";
-
+import { FaSignature } from "react-icons/fa6";
 import { FaRegLightbulb } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
 import { AiOutlineHome } from "react-icons/ai";
@@ -179,6 +179,10 @@ export default function Sidebar() {
             Skilify Teacher Dashboard Admin
           </p>
           <p className="text-slate-300">&copy; 2024 All right reserved</p>
+           <div className="flex gap-2.5">
+          <FaSignature size={28} className="text-slate-300"/>
+          <p className="text-slate-300">Rohit K Nanda</p>
+          </div>
         </div>
       </div>
     </>
