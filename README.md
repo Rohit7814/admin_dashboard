@@ -5,6 +5,8 @@ Pc Screen-View
 Mobile Screen-View vivo-X70 pro
 
 
+![WhatsApp Image 2024-01-05 at 00 49 47](https://github.com/Rohit7814/admin_dashboard/assets/108716973/ce50c08e-74b3-40c0-be63-f485063295fc)
+![WhatsApp Image 2024-01-05 at 00 49 47 (1)](https://github.com/Rohit7814/admin_dashboard/assets/108716973/4cc2b875-6235-4e33-95b0-db24ba76d698)
 
 
 Here is the link for the live preview
