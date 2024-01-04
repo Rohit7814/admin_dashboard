@@ -1,14 +1,10 @@
 
 Pc Screen-View
-
-![dashboard](https://github.com/Rohit7814/admin_dashboard/assets/108716973/bf12ec8a-5b86-43e7-b31c-90eec030805f)
-
+![final ss](https://github.com/Rohit7814/admin_dashboard/assets/108716973/8d782dca-d0cf-48d7-8758-02be02f65968)
 
 Mobile Screen-View vivo-X70 pro
 
-![WhatsApp Image 2024-01-05 at 00 49 47](https://github.com/Rohit7814/admin_dashboard/assets/108716973/a1f9e7be-9b27-495a-8412-83d4eabd53d9)
 
-![WhatsApp Image 2024-01-05 at 00 49 47 (1)](https://github.com/Rohit7814/admin_dashboard/assets/108716973/2e722781-c1d4-44b9-8f31-7a6b3767b190)
 
 
 Here is the link for the live preview
